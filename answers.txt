@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort
+
+How do you know?: The time taken on the sorted lists was the shortest as compared to the others
+
+sort2 uses: Merge sort
+
+How do you know?: The time taken on the random lists was the shortest as compared to the others
+
+sort3 uses: Selection sort
+
+How do you know?: The time taken on the reversed lists was the shortest as compared to the others
